@@ -1,2 +1,0 @@
-# hugo-ai-nav
-ai-
