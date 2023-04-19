@@ -1,2 +1,2 @@
 # hugo-ai-nav
-ai-
+ai-nav
