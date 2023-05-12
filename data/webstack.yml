@@ -4,7 +4,7 @@
   icon: far fa-star
   links: 
     - title: ChatGpt
-      logo: chatgpt_log.png
+      logo: ChatGPT_logo.png
       url: https://chat.openai.com
       description: OpenAI推出的AI聊天工具
     - title: GPT-4
