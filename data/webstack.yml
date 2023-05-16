@@ -28,7 +28,7 @@
       url:
       description: ai聊天聚合平台，提供chatgpt/claude/gpt4等的入口，可以免费体验ai聊天
 
-- taxonomy: ChatGpt周边产品镜像站
+- taxonomy: ChatGpt周边产品
   icon: fas fa-pencil-alt fa-lg
   list:
     - term: ChatGpt镜像站
@@ -42,6 +42,11 @@
           logo:
           url: https://freeopenai.xyz/
           description: 每天分享15个以上账号和apikey
+
+        - title: 没用的gpt
+          logo:
+          url: https://www.mydyjs.com/gpt.html
+          description: 专注提供ChatGPT镜像网站的免费、绿色站点
     - term: ChatGpt第三方客户端
       links:
         - title: chatbot ui
