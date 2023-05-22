@@ -47,6 +47,10 @@
           logo:
           url: https://www.mydyjs.com/gpt.html
           description: 专注提供ChatGPT镜像网站的免费、绿色站点
+        - title: 免费共享的chatgpt账号
+          logo:
+          url: https://chat-shared1.zhile.io/shared.html
+          description: 分享一些免费共享的chatgpt账号
     - term: ChatGpt第三方客户端
       links:
         - title: chatbot ui
