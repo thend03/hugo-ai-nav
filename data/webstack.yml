@@ -112,8 +112,6 @@
       url: https://yige.baidu.com/
       description: 百度推出的AI艺术和创意辅助平台
 
-
-
 - taxonomy: AI媒体工具
   icon: fas fa-pencil-alt fa-lg
   list:
@@ -123,20 +121,6 @@
           url: https://audiopen.ai/
           logo: 微信读书.jpg
           description: 将杂乱的想法说出来，录下声音，并将声音转换成文字，转换结果清晰有条理
-        - title: 书栈网
-          url: https://www.bookstack.cn/
-          logo: 书栈网.jpg
-          description: IT 互联网开源编程书籍免费阅读与下载。
-    - term: AI视频工具
-      links:
-        - title: 微信读书
-          url: https://weread.qq.com/
-          logo: 微信读书.jpg
-          description: 微信读书电脑版。
-        - title: 书栈网
-          url: https://www.bookstack.cn/
-          logo: 书栈网.jpg
-          description: IT 互联网开源编程书籍免费阅读与下载。
 
 - taxonomy: AI编程工具
   icon: fa fa-flask fa-lg
