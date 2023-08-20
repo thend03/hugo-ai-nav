@@ -116,15 +116,37 @@
       url: https://yige.baidu.com/
       description: 百度推出的AI艺术和创意辅助平台
 
-- taxonomy: AI媒体工具
+- taxonomy: AI办公
   icon: fas fa-pencil-alt fa-lg
   list:
-    - term: AI音频工具
+    - term: AI音频
       links:
         - title: audi open
           url: https://audiopen.ai/
           logo: 微信读书.jpg
           description: 将杂乱的想法说出来，录下声音，并将声音转换成文字，转换结果清晰有条理
+    - term: AI会议
+      links:
+        - title: otter
+          url: https://otter.ai/home
+          logo: otter.png
+          description: 配合google日历,outlook,zoom,可以随时记录会议,也可以上传文件进行对话的转录
+        - title: air gram
+          url: https://app.airgram.io/
+          logo: airgram.png
+          description: 自动记录和转录会议、做会议记录、分配行动项目,与zoom,teams,google teams完美搭配,也支持上传音视频文件进行转录
+        - title: sonix
+          url: https://sonix.ai/zh
+          logo: sonix.png
+          description: 可以以38+种语言进行转录,快速准确的自动转录工具,含30分钟的免费转录额度
+        - title: 飞书妙记
+          url: https://www.feishu.cn/product/minutes
+          logo: feishu.png
+          description: 飞书旗下的会议转录工具,需要升级飞书,支持音视频转文字,自动生成会议纪要,区分讲话人
+        - title: 通义听悟
+          url: https://tingwu.aliyun.com/
+          logo: tingwu.png
+          description: 阿里旗下的产品, 支持实时语音转文字,多语言同步翻译,1小时音频5分钟转写,智能总结,高效同步
 
 - taxonomy: AI编程工具
   icon: fa fa-flask fa-lg
